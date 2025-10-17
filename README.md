@@ -51,3 +51,7 @@ Below is screenshot showcasing the application in action:
 3. Enter the measurements for each alternative in separate rows.  
 4. Click *Calculate* to perform the ANOVA and contrast analysis.  
 5. Review the detailed results in the output window.  
+
+## Acknowledgements / Inspired by
+
+This project was implemented for educational purposes as part of a Performance of Computer Systems course.
